@@ -1,0 +1,16 @@
+#dice-holder{
+    display: flex;
+    align-items: center;
+}
+
+.dice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
